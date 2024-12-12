@@ -9,7 +9,7 @@ public class FoodMenu {
 
         while (true) {
             System.out.println("Select an option from the menu:");
-            System.out.println("1. Dosa    - 50 Rs");
+            System.out.println("1. Dosa    - 60 Rs");
             System.out.println("2. Samosa  - 30 Rs");
             System.out.println("3. Idli    - 40 Rs");
             System.out.println("4. Vada    - 25 Rs");
